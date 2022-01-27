@@ -1,0 +1,21 @@
+.content {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 600px;
+}
+
+.footer {
+  display: block;
+  margin: 0.25rem;
+  height: 31px;
+  line-height: 31px;
+  padding-left: 0.25rem;
+}
